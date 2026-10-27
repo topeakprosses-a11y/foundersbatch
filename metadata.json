@@ -1,0 +1,6 @@
+{
+  "name": "FOUNDER BATCH - The Founders Collective",
+  "description": "The elite collective connecting startup founders with high-tier talent, investor access, and instant peer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
